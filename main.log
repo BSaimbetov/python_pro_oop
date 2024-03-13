@@ -1,0 +1,288 @@
+2024-03-13 13:41:22,744:logging_config:INFO:New category created: Appetizers
+2024-03-13 13:41:22,744:logging_config:INFO:New category created: Main Dishes
+2024-03-13 13:41:22,745:logging_config:INFO:New category created: Deserts
+2024-03-13 13:41:22,745:logging_config:INFO:Dish 'Caesar Salad' added to category Appetizers
+2024-03-13 13:41:22,745:logging_config:INFO:Dish 'Vegetable Salad' added to category Appetizers
+2024-03-13 13:41:22,745:logging_config:INFO:Dish 'Spaghetti Carbonara' added to category Main Dishes
+2024-03-13 13:41:22,745:logging_config:INFO:Dish 'Soup' added to category Main Dishes
+2024-03-13 13:41:22,745:logging_config:INFO:Dish 'Cheesecake' added to category Deserts
+2024-03-13 13:41:22,745:logging_config:INFO:Dish 'Taramisu' added to category Deserts
+2024-03-13 13:41:22,745:logging_config:INFO:New menu created
+2024-03-13 13:41:22,745:logging_config:INFO:Category 'Appetizers' added to menu
+2024-03-13 13:41:22,745:logging_config:INFO:Category 'Main Dishes' added to menu
+2024-03-13 13:41:22,745:logging_config:INFO:Category 'Deserts' added to menu
+2024-03-13 13:41:22,745:logging_config:INFO:New client created: John, ID: 85fddb5b-8c4e-4b28-a063-ee017b910ea9
+2024-03-13 13:41:22,745:logging_config:INFO:New client created: Alice, ID: 65023c8a-38a8-41c9-9960-4c896646e2d5
+2024-03-13 13:41:22,746:logging_config:INFO:New client created: Tom, ID: cf9f9ae4-3a1d-4c26-bcdc-9686a28592b3
+2024-03-13 13:41:22,746:logging_config:INFO:1x Caesar Salad added to order of client John
+2024-03-13 13:41:22,746:logging_config:INFO:1x Spaghetti Carbonara added to order of client John
+2024-03-13 13:41:22,746:logging_config:INFO:1x Cheesecake added to order of client John
+2024-03-13 13:41:22,746:logging_config:INFO:1x Soup added to order of client Alice
+2024-03-13 13:41:22,746:logging_config:INFO:1x Taramisu added to order of client Alice
+2024-03-13 13:41:22,746:logging_config:INFO:1x Vegetable Salad added to order of client Tom
+2024-03-13 13:41:22,746:logging_config:INFO:1x Soup added to order of client Tom
+2024-03-13 13:41:22,746:logging_config:INFO:1x Taramisu added to order of client Tom
+2024-03-13 14:26:25,529:logging_config:INFO:New category created: Appetizers
+2024-03-13 14:26:25,529:logging_config:INFO:New category created: Main Dishes
+2024-03-13 14:26:25,529:logging_config:INFO:New category created: Deserts
+2024-03-13 14:26:25,529:logging_config:INFO:Dish 'Caesar Salad' added to category Appetizers
+2024-03-13 14:26:25,529:logging_config:INFO:Dish 'Vegetable Salad' added to category Appetizers
+2024-03-13 14:26:25,530:logging_config:INFO:Dish 'Spaghetti Carbonara' added to category Main Dishes
+2024-03-13 14:26:25,530:logging_config:INFO:Dish 'Soup' added to category Main Dishes
+2024-03-13 14:26:25,530:logging_config:INFO:Dish 'Cheesecake' added to category Deserts
+2024-03-13 14:26:25,530:logging_config:INFO:Dish 'Taramisu' added to category Deserts
+2024-03-13 14:26:25,530:logging_config:INFO:New menu created
+2024-03-13 14:26:25,530:logging_config:INFO:Category 'Appetizers' added to menu
+2024-03-13 14:26:25,530:logging_config:INFO:Category 'Main Dishes' added to menu
+2024-03-13 14:26:25,530:logging_config:INFO:Category 'Deserts' added to menu
+2024-03-13 14:26:25,530:logging_config:INFO:New client created: John, ID: a93c71f5-ea9f-4fbe-bdc5-fd67ed036483
+2024-03-13 14:26:25,530:logging_config:INFO:New client created: Alice, ID: 18204035-26d5-4855-9e7f-bb4f8ae9ee71
+2024-03-13 14:26:25,530:logging_config:INFO:New client created: Tom, ID: 026dc920-869c-45fe-a858-4539438769fc
+2024-03-13 14:26:25,530:logging_config:INFO:1x Caesar Salad added to order of client John
+2024-03-13 14:26:25,530:logging_config:INFO:1x Spaghetti Carbonara added to order of client John
+2024-03-13 14:26:25,530:logging_config:INFO:1x Cheesecake added to order of client John
+2024-03-13 14:26:25,530:logging_config:INFO:1x Soup added to order of client Alice
+2024-03-13 14:26:25,530:logging_config:INFO:1x Taramisu added to order of client Alice
+2024-03-13 14:26:25,530:logging_config:INFO:1x Vegetable Salad added to order of client Tom
+2024-03-13 14:26:25,530:logging_config:INFO:1x Soup added to order of client Tom
+2024-03-13 14:26:25,530:logging_config:INFO:1x Taramisu added to order of client Tom
+2024-03-13 14:30:10,989:logging_config:INFO:New category created: Appetizers
+2024-03-13 14:30:10,990:logging_config:INFO:New category created: Main Dishes
+2024-03-13 14:30:10,991:logging_config:INFO:New category created: Deserts
+2024-03-13 14:30:10,991:logging_config:INFO:Dish 'Caesar Salad' added to category Appetizers
+2024-03-13 14:30:10,991:logging_config:INFO:Dish 'Vegetable Salad' added to category Appetizers
+2024-03-13 14:30:10,991:logging_config:INFO:Dish 'Spaghetti Carbonara' added to category Main Dishes
+2024-03-13 14:30:10,992:logging_config:INFO:Dish 'Soup' added to category Main Dishes
+2024-03-13 14:30:10,992:logging_config:INFO:Dish 'Cheesecake' added to category Deserts
+2024-03-13 14:30:10,992:logging_config:INFO:Dish 'Taramisu' added to category Deserts
+2024-03-13 14:30:10,992:logging_config:INFO:New menu created
+2024-03-13 14:30:10,992:logging_config:INFO:Category 'Appetizers' added to menu
+2024-03-13 14:30:10,993:logging_config:INFO:Category 'Main Dishes' added to menu
+2024-03-13 14:30:10,993:logging_config:INFO:Category 'Deserts' added to menu
+2024-03-13 14:30:10,993:logging_config:INFO:New client created: John, ID: 09a53357-31a2-4620-adae-28e2fdae1977
+2024-03-13 14:30:10,993:logging_config:INFO:New client created: Alice, ID: affe6a7a-c45e-45f2-a7d7-77da033cfa4b
+2024-03-13 14:30:10,993:logging_config:INFO:New client created: Tom, ID: 8ebf3725-42e6-463a-97e8-d3bf928f5f04
+2024-03-13 14:30:10,994:logging_config:INFO:1x Caesar Salad added to order of client John
+2024-03-13 14:30:10,994:logging_config:INFO:1x Spaghetti Carbonara added to order of client John
+2024-03-13 14:30:10,994:logging_config:INFO:1x Cheesecake added to order of client John
+2024-03-13 14:30:10,994:logging_config:INFO:1x Soup added to order of client Alice
+2024-03-13 14:30:10,995:logging_config:INFO:1x Taramisu added to order of client Alice
+2024-03-13 14:30:10,995:logging_config:INFO:1x Vegetable Salad added to order of client Tom
+2024-03-13 14:30:10,995:logging_config:INFO:1x Soup added to order of client Tom
+2024-03-13 14:30:10,995:logging_config:INFO:1x Taramisu added to order of client Tom
+2024-03-13 14:32:54,605:logging_config:INFO:New category created: Appetizers
+2024-03-13 14:32:54,605:logging_config:INFO:New category created: Main Dishes
+2024-03-13 14:32:54,605:logging_config:INFO:New category created: Deserts
+2024-03-13 14:32:54,605:logging_config:INFO:Dish 'Caesar Salad' added to category Appetizers
+2024-03-13 14:32:54,605:logging_config:INFO:Dish 'Vegetable Salad' added to category Appetizers
+2024-03-13 14:32:54,605:logging_config:INFO:Dish 'Spaghetti Carbonara' added to category Main Dishes
+2024-03-13 14:32:54,605:logging_config:INFO:Dish 'Soup' added to category Main Dishes
+2024-03-13 14:32:54,605:logging_config:INFO:Dish 'Cheesecake' added to category Deserts
+2024-03-13 14:32:54,605:logging_config:INFO:Dish 'Taramisu' added to category Deserts
+2024-03-13 14:32:54,605:logging_config:INFO:New menu created
+2024-03-13 14:32:54,605:logging_config:INFO:Category 'Appetizers' added to menu
+2024-03-13 14:32:54,605:logging_config:INFO:Category 'Main Dishes' added to menu
+2024-03-13 14:32:54,605:logging_config:INFO:Category 'Deserts' added to menu
+2024-03-13 14:32:54,606:logging_config:INFO:New client created: John, ID: ab6b6492-95ef-457c-9055-fc86544f8b8b
+2024-03-13 14:32:54,606:logging_config:INFO:New client created: Alice, ID: 014fe0de-072c-494f-b51d-e7cae76b96d5
+2024-03-13 14:32:54,606:logging_config:INFO:New client created: Tom, ID: 79af94f7-5ce5-4d82-b1b7-50e255a7b840
+2024-03-13 14:32:54,606:logging_config:INFO:1x Caesar Salad added to order of client John
+2024-03-13 14:32:54,606:logging_config:INFO:1x Spaghetti Carbonara added to order of client John
+2024-03-13 14:32:54,606:logging_config:INFO:1x Cheesecake added to order of client John
+2024-03-13 14:32:54,606:logging_config:INFO:1x Soup added to order of client Alice
+2024-03-13 14:32:54,606:logging_config:INFO:1x Taramisu added to order of client Alice
+2024-03-13 14:32:54,606:logging_config:INFO:1x Vegetable Salad added to order of client Tom
+2024-03-13 14:32:54,606:logging_config:INFO:1x Soup added to order of client Tom
+2024-03-13 14:32:54,606:logging_config:INFO:1x Taramisu added to order of client Tom
+2024-03-13 14:34:19,018:logging_config:INFO:New category created: Appetizers
+2024-03-13 14:34:19,019:logging_config:INFO:New category created: Main Dishes
+2024-03-13 14:34:19,019:logging_config:INFO:New category created: Deserts
+2024-03-13 14:34:19,019:logging_config:INFO:Dish 'Caesar Salad' added to category Appetizers
+2024-03-13 14:34:19,019:logging_config:INFO:Dish 'Vegetable Salad' added to category Appetizers
+2024-03-13 14:34:19,019:logging_config:INFO:Dish 'Spaghetti Carbonara' added to category Main Dishes
+2024-03-13 14:34:19,019:logging_config:INFO:Dish 'Soup' added to category Main Dishes
+2024-03-13 14:34:19,019:logging_config:INFO:Dish 'Cheesecake' added to category Deserts
+2024-03-13 14:34:19,019:logging_config:INFO:Dish 'Taramisu' added to category Deserts
+2024-03-13 14:34:19,019:logging_config:INFO:New menu created
+2024-03-13 14:34:19,019:logging_config:INFO:Category 'Appetizers' added to menu
+2024-03-13 14:34:19,019:logging_config:INFO:Category 'Main Dishes' added to menu
+2024-03-13 14:34:19,019:logging_config:INFO:Category 'Deserts' added to menu
+2024-03-13 14:34:19,019:logging_config:INFO:New client created: John, ID: 75ac5ba5-7b48-491e-943a-b20009298251
+2024-03-13 14:34:19,019:logging_config:INFO:New client created: Alice, ID: bb426235-6dcf-49c7-aa8f-98d82d4d74d5
+2024-03-13 14:34:19,019:logging_config:INFO:New client created: Tom, ID: 8c92f172-2146-4e49-bdf1-253dd5519fe6
+2024-03-13 14:34:19,020:logging_config:INFO:1x Caesar Salad added to order of client John
+2024-03-13 14:34:19,020:logging_config:INFO:1x Spaghetti Carbonara added to order of client John
+2024-03-13 14:34:19,020:logging_config:INFO:1x Cheesecake added to order of client John
+2024-03-13 14:34:19,020:logging_config:INFO:1x Soup added to order of client Alice
+2024-03-13 14:34:19,020:logging_config:INFO:1x Taramisu added to order of client Alice
+2024-03-13 14:34:19,020:logging_config:INFO:1x Vegetable Salad added to order of client Tom
+2024-03-13 14:34:19,020:logging_config:INFO:1x Soup added to order of client Tom
+2024-03-13 14:34:19,020:logging_config:INFO:1x Taramisu added to order of client Tom
+2024-03-13 14:34:51,109:logging_config:INFO:New category created: Appetizers
+2024-03-13 14:34:51,110:logging_config:INFO:New category created: Main Dishes
+2024-03-13 14:34:51,110:logging_config:INFO:New category created: Deserts
+2024-03-13 14:34:51,110:logging_config:INFO:Dish 'Caesar Salad' added to category Appetizers
+2024-03-13 14:34:51,110:logging_config:INFO:Dish 'Vegetable Salad' added to category Appetizers
+2024-03-13 14:34:51,110:logging_config:INFO:Dish 'Spaghetti Carbonara' added to category Main Dishes
+2024-03-13 14:34:51,110:logging_config:INFO:Dish 'Soup' added to category Main Dishes
+2024-03-13 14:34:51,110:logging_config:INFO:Dish 'Cheesecake' added to category Deserts
+2024-03-13 14:34:51,110:logging_config:INFO:Dish 'Taramisu' added to category Deserts
+2024-03-13 14:34:51,110:logging_config:INFO:New menu created
+2024-03-13 14:34:51,110:logging_config:INFO:Category 'Appetizers' added to menu
+2024-03-13 14:34:51,110:logging_config:INFO:Category 'Main Dishes' added to menu
+2024-03-13 14:34:51,110:logging_config:INFO:Category 'Deserts' added to menu
+2024-03-13 14:34:51,111:logging_config:INFO:New client created: John, ID: 2cf915b7-ea65-4880-8173-c8eb8f952281
+2024-03-13 14:34:51,111:logging_config:INFO:New client created: Alice, ID: 5df052a6-f7eb-409c-ab1d-beb9cb7ef952
+2024-03-13 14:34:51,111:logging_config:INFO:New client created: Tom, ID: eb3e7586-00b9-4588-9523-ad803719b4c9
+2024-03-13 14:34:51,111:logging_config:INFO:1x Caesar Salad added to order of client John
+2024-03-13 14:34:51,111:logging_config:INFO:1x Spaghetti Carbonara added to order of client John
+2024-03-13 14:34:51,111:logging_config:INFO:1x Cheesecake added to order of client John
+2024-03-13 14:34:51,111:logging_config:INFO:1x Soup added to order of client Alice
+2024-03-13 14:34:51,111:logging_config:INFO:1x Taramisu added to order of client Alice
+2024-03-13 14:34:51,111:logging_config:INFO:1x Vegetable Salad added to order of client Tom
+2024-03-13 14:34:51,112:logging_config:INFO:1x Soup added to order of client Tom
+2024-03-13 14:34:51,112:logging_config:INFO:1x Taramisu added to order of client Tom
+2024-03-13 14:35:17,749:logging_config:INFO:New category created: Appetizers
+2024-03-13 14:35:17,749:logging_config:INFO:New category created: Main Dishes
+2024-03-13 14:35:17,749:logging_config:INFO:New category created: Deserts
+2024-03-13 14:35:17,749:logging_config:INFO:Dish 'Caesar Salad' added to category Appetizers
+2024-03-13 14:35:17,749:logging_config:INFO:Dish 'Vegetable Salad' added to category Appetizers
+2024-03-13 14:35:17,750:logging_config:INFO:Dish 'Spaghetti Carbonara' added to category Main Dishes
+2024-03-13 14:35:17,750:logging_config:INFO:Dish 'Soup' added to category Main Dishes
+2024-03-13 14:35:17,750:logging_config:INFO:Dish 'Cheesecake' added to category Deserts
+2024-03-13 14:35:17,750:logging_config:INFO:Dish 'Taramisu' added to category Deserts
+2024-03-13 14:35:17,750:logging_config:INFO:New menu created
+2024-03-13 14:35:17,750:logging_config:INFO:Category 'Appetizers' added to menu
+2024-03-13 14:35:17,750:logging_config:INFO:Category 'Main Dishes' added to menu
+2024-03-13 14:35:17,750:logging_config:INFO:Category 'Deserts' added to menu
+2024-03-13 14:35:17,750:logging_config:INFO:New client created: John, ID: 8237a5fe-b69b-4293-be68-72b8eceec94f
+2024-03-13 14:35:17,750:logging_config:INFO:New client created: Alice, ID: ec2c98e7-d217-432f-99ab-0cbca4c6d61a
+2024-03-13 14:35:17,750:logging_config:INFO:New client created: Tom, ID: 81e41bcb-7039-469a-876b-97ba213ecad1
+2024-03-13 14:35:17,750:logging_config:INFO:1x Caesar Salad added to order of client John
+2024-03-13 14:35:17,750:logging_config:INFO:1x Spaghetti Carbonara added to order of client John
+2024-03-13 14:35:17,750:logging_config:INFO:1x Cheesecake added to order of client John
+2024-03-13 14:35:17,750:logging_config:INFO:1x Soup added to order of client Alice
+2024-03-13 14:35:17,750:logging_config:INFO:1x Taramisu added to order of client Alice
+2024-03-13 14:35:17,750:logging_config:INFO:1x Vegetable Salad added to order of client Tom
+2024-03-13 14:35:17,750:logging_config:INFO:1x Soup added to order of client Tom
+2024-03-13 14:35:17,750:logging_config:INFO:1x Taramisu added to order of client Tom
+2024-03-13 14:35:51,812:logging_config:INFO:New category created: Appetizers
+2024-03-13 14:35:51,813:logging_config:INFO:New category created: Main Dishes
+2024-03-13 14:35:51,813:logging_config:INFO:New category created: Deserts
+2024-03-13 14:35:51,813:logging_config:INFO:Dish 'Caesar Salad' added to category Appetizers
+2024-03-13 14:35:51,813:logging_config:INFO:Dish 'Vegetable Salad' added to category Appetizers
+2024-03-13 14:35:51,813:logging_config:INFO:Dish 'Spaghetti Carbonara' added to category Main Dishes
+2024-03-13 14:35:51,813:logging_config:INFO:Dish 'Soup' added to category Main Dishes
+2024-03-13 14:35:51,813:logging_config:INFO:Dish 'Cheesecake' added to category Deserts
+2024-03-13 14:35:51,813:logging_config:INFO:Dish 'Taramisu' added to category Deserts
+2024-03-13 14:35:51,813:logging_config:INFO:New menu created
+2024-03-13 14:35:51,813:logging_config:INFO:Category 'Appetizers' added to menu
+2024-03-13 14:35:51,813:logging_config:INFO:Category 'Main Dishes' added to menu
+2024-03-13 14:35:51,814:logging_config:INFO:Category 'Deserts' added to menu
+2024-03-13 14:35:51,814:logging_config:INFO:New client created: John, ID: 8ce1f149-d464-4415-b222-7bef25398015
+2024-03-13 14:35:51,814:logging_config:INFO:New client created: Alice, ID: 077633ba-62ff-4034-a898-aaaa63c58a96
+2024-03-13 14:35:51,814:logging_config:INFO:New client created: Tom, ID: 33b25f36-611b-486f-b94e-89381467ddb5
+2024-03-13 14:35:51,814:logging_config:INFO:1x Caesar Salad added to order of client John
+2024-03-13 14:35:51,814:logging_config:INFO:1x Spaghetti Carbonara added to order of client John
+2024-03-13 14:35:51,814:logging_config:INFO:1x Cheesecake added to order of client John
+2024-03-13 14:35:51,814:logging_config:INFO:1x Soup added to order of client Alice
+2024-03-13 14:35:51,814:logging_config:INFO:1x Taramisu added to order of client Alice
+2024-03-13 14:35:51,814:logging_config:INFO:1x Vegetable Salad added to order of client Tom
+2024-03-13 14:35:51,814:logging_config:INFO:1x Soup added to order of client Tom
+2024-03-13 14:35:51,814:logging_config:INFO:1x Taramisu added to order of client Tom
+2024-03-13 14:36:09,403:logging_config:INFO:New category created: Appetizers
+2024-03-13 14:36:09,404:logging_config:INFO:New category created: Main Dishes
+2024-03-13 14:36:09,404:logging_config:INFO:New category created: Deserts
+2024-03-13 14:36:09,404:logging_config:INFO:Dish 'Caesar Salad' added to category Appetizers
+2024-03-13 14:36:09,404:logging_config:INFO:Dish 'Vegetable Salad' added to category Appetizers
+2024-03-13 14:36:09,404:logging_config:INFO:Dish 'Spaghetti Carbonara' added to category Main Dishes
+2024-03-13 14:36:09,404:logging_config:INFO:Dish 'Soup' added to category Main Dishes
+2024-03-13 14:36:09,404:logging_config:INFO:Dish 'Cheesecake' added to category Deserts
+2024-03-13 14:36:09,404:logging_config:INFO:Dish 'Taramisu' added to category Deserts
+2024-03-13 14:36:09,404:logging_config:INFO:New menu created
+2024-03-13 14:36:09,404:logging_config:INFO:Category 'Appetizers' added to menu
+2024-03-13 14:36:09,404:logging_config:INFO:Category 'Main Dishes' added to menu
+2024-03-13 14:36:09,404:logging_config:INFO:Category 'Deserts' added to menu
+2024-03-13 14:36:09,404:logging_config:INFO:New client created: John, ID: fbb4bb64-1809-42f3-89a4-77fe22f6f470
+2024-03-13 14:36:09,404:logging_config:INFO:New client created: Alice, ID: 52585f09-1e6b-4cec-9c3e-44a10699f095
+2024-03-13 14:36:09,404:logging_config:INFO:New client created: Tom, ID: 33043a68-0149-41d1-ad86-9769412cc0f3
+2024-03-13 14:36:09,404:logging_config:INFO:1x Caesar Salad added to order of client John
+2024-03-13 14:36:09,404:logging_config:INFO:1x Spaghetti Carbonara added to order of client John
+2024-03-13 14:36:09,404:logging_config:INFO:1x Cheesecake added to order of client John
+2024-03-13 14:36:09,404:logging_config:INFO:1x Soup added to order of client Alice
+2024-03-13 14:36:09,404:logging_config:INFO:1x Taramisu added to order of client Alice
+2024-03-13 14:36:09,405:logging_config:INFO:1x Vegetable Salad added to order of client Tom
+2024-03-13 14:36:09,405:logging_config:INFO:1x Soup added to order of client Tom
+2024-03-13 14:36:09,405:logging_config:INFO:1x Taramisu added to order of client Tom
+2024-03-13 14:36:40,262:logging_config:INFO:New category created: Appetizers
+2024-03-13 14:36:40,262:logging_config:INFO:New category created: Main Dishes
+2024-03-13 14:36:40,263:logging_config:INFO:New category created: Deserts
+2024-03-13 14:36:40,263:logging_config:INFO:Dish 'Caesar Salad' added to category Appetizers
+2024-03-13 14:36:40,263:logging_config:INFO:Dish 'Vegetable Salad' added to category Appetizers
+2024-03-13 14:36:40,263:logging_config:INFO:Dish 'Spaghetti Carbonara' added to category Main Dishes
+2024-03-13 14:36:40,263:logging_config:INFO:Dish 'Soup' added to category Main Dishes
+2024-03-13 14:36:40,263:logging_config:INFO:Dish 'Cheesecake' added to category Deserts
+2024-03-13 14:36:40,263:logging_config:INFO:Dish 'Taramisu' added to category Deserts
+2024-03-13 14:36:40,263:logging_config:INFO:New menu created
+2024-03-13 14:36:40,263:logging_config:INFO:Category 'Appetizers' added to menu
+2024-03-13 14:36:40,263:logging_config:INFO:Category 'Main Dishes' added to menu
+2024-03-13 14:36:40,263:logging_config:INFO:Category 'Deserts' added to menu
+2024-03-13 14:36:40,263:logging_config:INFO:New client created: John, ID: a7c1a97d-96ae-411a-a91a-8fada5895c1d
+2024-03-13 14:36:40,263:logging_config:INFO:New client created: Alice, ID: 6b4ab783-a5b4-4653-bde7-33f2acb116dd
+2024-03-13 14:36:40,263:logging_config:INFO:New client created: Tom, ID: 2f059f4c-4a5d-40cc-b953-cb4faf9e6f44
+2024-03-13 14:36:40,263:logging_config:INFO:1x Caesar Salad added to order of client John
+2024-03-13 14:36:40,263:logging_config:INFO:1x Spaghetti Carbonara added to order of client John
+2024-03-13 14:36:40,263:logging_config:INFO:1x Cheesecake added to order of client John
+2024-03-13 14:36:40,263:logging_config:INFO:1x Soup added to order of client Alice
+2024-03-13 14:36:40,263:logging_config:INFO:1x Taramisu added to order of client Alice
+2024-03-13 14:36:40,264:logging_config:INFO:1x Vegetable Salad added to order of client Tom
+2024-03-13 14:36:40,264:logging_config:INFO:1x Soup added to order of client Tom
+2024-03-13 14:36:40,264:logging_config:INFO:1x Taramisu added to order of client Tom
+2024-03-13 14:37:16,037:logging_config:INFO:New category created: Appetizers
+2024-03-13 14:37:16,038:logging_config:INFO:New category created: Main Dishes
+2024-03-13 14:37:16,038:logging_config:INFO:New category created: Deserts
+2024-03-13 14:37:16,038:logging_config:INFO:Dish 'Caesar Salad' added to category Appetizers
+2024-03-13 14:37:16,038:logging_config:INFO:Dish 'Vegetable Salad' added to category Appetizers
+2024-03-13 14:37:16,038:logging_config:INFO:Dish 'Spaghetti Carbonara' added to category Main Dishes
+2024-03-13 14:37:16,038:logging_config:INFO:Dish 'Soup' added to category Main Dishes
+2024-03-13 14:37:16,038:logging_config:INFO:Dish 'Cheesecake' added to category Deserts
+2024-03-13 14:37:16,038:logging_config:INFO:Dish 'Taramisu' added to category Deserts
+2024-03-13 14:37:16,038:logging_config:INFO:New menu created
+2024-03-13 14:37:16,038:logging_config:INFO:Category 'Appetizers' added to menu
+2024-03-13 14:37:16,038:logging_config:INFO:Category 'Main Dishes' added to menu
+2024-03-13 14:37:16,038:logging_config:INFO:Category 'Deserts' added to menu
+2024-03-13 14:37:16,038:logging_config:INFO:New client created: John, ID: 20077db8-c354-4b92-9cf6-433609114f5d
+2024-03-13 14:37:16,038:logging_config:INFO:New client created: Alice, ID: 913529f5-1fad-448b-b9ab-deef544f88b2
+2024-03-13 14:37:16,038:logging_config:INFO:New client created: Tom, ID: 60cc46a8-660f-4bcb-ad54-32a74783d115
+2024-03-13 14:37:16,038:logging_config:INFO:1x Caesar Salad added to order of client John
+2024-03-13 14:37:16,038:logging_config:INFO:1x Spaghetti Carbonara added to order of client John
+2024-03-13 14:37:16,038:logging_config:INFO:1x Cheesecake added to order of client John
+2024-03-13 14:37:16,039:logging_config:INFO:1x Soup added to order of client Alice
+2024-03-13 14:37:16,039:logging_config:INFO:1x Taramisu added to order of client Alice
+2024-03-13 14:37:16,039:logging_config:INFO:1x Vegetable Salad added to order of client Tom
+2024-03-13 14:37:16,039:logging_config:INFO:1x Soup added to order of client Tom
+2024-03-13 14:37:16,039:logging_config:INFO:1x Taramisu added to order of client Tom
+2024-03-13 14:37:31,291:logging_config:INFO:New category created: Appetizers
+2024-03-13 14:37:31,291:logging_config:INFO:New category created: Main Dishes
+2024-03-13 14:37:31,292:logging_config:INFO:New category created: Deserts
+2024-03-13 14:37:31,292:logging_config:INFO:Dish 'Caesar Salad' added to category Appetizers
+2024-03-13 14:37:31,292:logging_config:INFO:Dish 'Vegetable Salad' added to category Appetizers
+2024-03-13 14:37:31,292:logging_config:INFO:Dish 'Spaghetti Carbonara' added to category Main Dishes
+2024-03-13 14:37:31,292:logging_config:INFO:Dish 'Soup' added to category Main Dishes
+2024-03-13 14:37:31,292:logging_config:INFO:Dish 'Cheesecake' added to category Deserts
+2024-03-13 14:37:31,292:logging_config:INFO:Dish 'Taramisu' added to category Deserts
+2024-03-13 14:37:31,292:logging_config:INFO:New menu created
+2024-03-13 14:37:31,292:logging_config:INFO:Category 'Appetizers' added to menu
+2024-03-13 14:37:31,292:logging_config:INFO:Category 'Main Dishes' added to menu
+2024-03-13 14:37:31,292:logging_config:INFO:Category 'Deserts' added to menu
+2024-03-13 14:37:31,292:logging_config:INFO:New client created: John, ID: bfbbbf7a-4cf7-45c8-905a-f10dccf07bb7
+2024-03-13 14:37:31,292:logging_config:INFO:New client created: Alice, ID: 56b5fa98-19b7-41c9-bdaf-9049252b64ba
+2024-03-13 14:37:31,292:logging_config:INFO:New client created: Tom, ID: 32f8e3f9-b844-4a26-8ed6-fc7ab78fd80d
+2024-03-13 14:37:31,292:logging_config:INFO:1x Caesar Salad added to order of client John
+2024-03-13 14:37:31,292:logging_config:INFO:1x Spaghetti Carbonara added to order of client John
+2024-03-13 14:37:31,292:logging_config:INFO:1x Cheesecake added to order of client John
+2024-03-13 14:37:31,292:logging_config:INFO:1x Soup added to order of client Alice
+2024-03-13 14:37:31,292:logging_config:INFO:1x Taramisu added to order of client Alice
+2024-03-13 14:37:31,293:logging_config:INFO:1x Vegetable Salad added to order of client Tom
+2024-03-13 14:37:31,293:logging_config:INFO:1x Soup added to order of client Tom
+2024-03-13 14:37:31,293:logging_config:INFO:1x Taramisu added to order of client Tom
