@@ -72,17 +72,17 @@ fib_gen = fibonacci_generator()
 for _ in range(10):
     print(next(fib_gen))
 
-#Task 6
-from datetime import datetime, timedelta
-def date_range_generator(start_date, end_date):
-    current_date = start_date
-    while current_date <= end_date:
-        yield current_date
-        current_date += timedelta(days=1)
+# #Task 6
+# from datetime import datetime, timedelta
+# def date_range_generator(start_date, end_date):
+#     current_date = start_date
+#     while current_date <= end_date:
+#         yield current_date
+#         current_date += timedelta(days=1)
 
 
-start_date = datetime(2024, 1, 1)
-end_date = datetime(2024, 1, 10)
+# start_date = datetime(2024, 1, 1)
+# end_date = datetime(2024, 1, 10)
 
-for date in date_range_generator(start_date, end_date):
-    print(date.strftime('%Y-%m-%d'))
+# for date in date_range_generator(start_date, end_date):
+#     print(date.strftime('%Y-%m-%d'))
