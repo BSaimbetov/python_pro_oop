@@ -34,7 +34,7 @@ def range_generator(*args):
 
 print(*range_generator(10))
 print(*range_generator(1, 10))
-print(*range_generator(1, 10, 2.2))
+print(*range_generator(1, 10, 2))
 print(*range_generator(10, 1, -2))
 
 #Task 3
@@ -74,15 +74,15 @@ for _ in range(10):
 
 # #Task 6
 # from datetime import datetime, timedelta
-# def date_range_generator(start_date, end_date):
+# def date_range_generator(start_date: str, end_date: str, step: int):
 #     current_date = start_date
 #     while current_date <= end_date:
 #         yield current_date
-#         current_date += timedelta(days=1)
+#         current_date += timedelta(days=step)
 
 
 # start_date = datetime(2024, 1, 1)
 # end_date = datetime(2024, 1, 10)
 
-# for date in date_range_generator(start_date, end_date):
+# for date in date_range_generator(start_date, end_date, 2):
 #     print(date.strftime('%Y-%m-%d'))
